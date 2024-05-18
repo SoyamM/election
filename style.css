@@ -43,14 +43,13 @@ h4{
 }
 .bjp{
     width: 150px;
-    margin-right: 0px;
-    margin-left:250px; 
+    margin-right: 10px;
+    margin-left:300px; 
    
 }
 .inc{
     width: 150px;
     margin-left:0
-    margin-right:100px;
 }
 #last{
     color: rgb(66, 228, 228);
